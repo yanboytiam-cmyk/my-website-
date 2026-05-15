@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://www.agi-conseil.com/</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agi-conseil.com/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agi-conseil.com/" />
+    <image:image>
+      <image:loc>https://www.agi-conseil.com/assets/brand/hero-robot.png</image:loc>
+      <image:title>AGI — Agence d'intelligence artificielle</image:title>
+      <image:caption>Visuel principal d'AGI, agence IA fondée par Yanis Tiam</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.agi-conseil.com/assets/team/yanis.png</image:loc>
+      <image:title>Yanis Tiam, fondateur d'AGI</image:title>
+      <image:caption>Yanis Tiam, fondateur &amp; CEO de l'agence IA AGI, certifié Anthropic, Google AI et OpenAI</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.agi-conseil.com/assets/projects/afriland.png</image:loc>
+      <image:title>Projet AGI — Afriland First Bank, Agent IA &amp; Tickets</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.agi-conseil.com/assets/projects/bcb.png</image:loc>
+      <image:title>Projet AGI — BCB Liberty Healthcare, Formulaires intelligents</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.agi-conseil.com/assets/projects/ability.png</image:loc>
+      <image:title>Projet AGI — Ability &amp; Empowerment, Gestion intelligente des dossiers</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.agi-conseil.com/assets/projects/idrisman.png</image:loc>
+      <image:title>Projet AGI — IdrisMans Transit, Agent IA opérationnel</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.agi-conseil.com/assets/projects/docshipper.png</image:loc>
+      <image:title>Projet AGI — DocShipper, Automatisation logistique IA</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.agi-conseil.com/#apropos</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.agi-conseil.com/#services</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.agi-conseil.com/#projets</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.agi-conseil.com/#references</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.agi-conseil.com/#securite</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.agi-conseil.com/#faq</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.agi-conseil.com/#contact</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>

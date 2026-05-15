@@ -1,0 +1,40 @@
+# robots.txt — AGI Agence IA
+# https://www.agi-conseil.com/
+
+User-agent: *
+Allow: /
+
+# On bloque les crawlers SEO commerciaux gourmands
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+# AI training crawlers — on laisse Google, OpenAI et Anthropic mais on bloque les autres
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+# Sitemap
+Sitemap: https://www.agi-conseil.com/sitemap.xml
+
+# Host preference
+Host: https://www.agi-conseil.com
