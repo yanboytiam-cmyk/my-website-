@@ -3444,6 +3444,8 @@ html.intro-lock .scroll-progress { opacity: 0; }
 .founder-social--tt:hover { background: linear-gradient(135deg, rgba(37, 244, 238, 0.2), rgba(254, 44, 85, 0.22)); border-color: rgba(254, 44, 85, 0.55); box-shadow: 0 8px 20px -8px rgba(254, 44, 85, 0.55); }
 .founder-social--tg:hover { background: rgba(38, 161, 226, 0.22); border-color: rgba(110, 200, 255, 0.55); box-shadow: 0 8px 20px -8px rgba(38, 161, 226, 0.6); }
 .founder-social--x:hover  { background: rgba(255, 255, 255, 0.14); border-color: rgba(255, 255, 255, 0.55); box-shadow: 0 8px 20px -8px rgba(255, 255, 255, 0.45); }
+.founder-social--gh:hover { background: rgba(255, 255, 255, 0.14); border-color: rgba(255, 255, 255, 0.55); box-shadow: 0 8px 20px -8px rgba(255, 255, 255, 0.45); }
+.founder-social--wa:hover { background: rgba(37, 211, 102, 0.22); border-color: rgba(120, 235, 165, 0.55); box-shadow: 0 8px 20px -8px rgba(37, 211, 102, 0.6); }
 
 /* ─────────────────────────────────────────────────────────────
    14. Mid-funnel CTA bands — after Procedure & Projects
